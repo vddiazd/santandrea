@@ -47,3 +47,8 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 12.0
+
+[submodule "rocketgithub/fel_infile"]
+	path = rocketgithub/fel_infile
+	url = git@github.com:rocketgithub/fel_infile.git
+	branch = master
