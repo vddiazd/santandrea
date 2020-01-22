@@ -17,3 +17,8 @@
 	path = rocketgithub/bolson
 	url = git@github.com:rocketgithub/bolson.git
 	branch = 11.0
+
+[submodule "rocketgithub/rrhh"]
+	path = rocketgithub/rrhh
+	url = git@github.com:rocketgithub/rrhh.git
+	branch = 11.0
